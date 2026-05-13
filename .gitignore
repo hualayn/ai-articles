@@ -1,0 +1,18 @@
+# Obsidian local workspace and UI state
+.obsidian/workspace.json
+
+# Obsidian plugin binary files (often large, auto-installed)
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+.obsidian/plugins/*/manifest.json
+.obsidian/plugins/*/data.json
+
+# macOS
+.DS_Store
+
+# Node / build artifacts (if used)
+node_modules/
+dist/
+
+# Optional: large attachments (uncomment if needed)
+# attachments/
